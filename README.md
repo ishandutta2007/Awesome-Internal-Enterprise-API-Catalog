@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Internal-Enterprise-API-Catalog" alt="License" /></a>
@@ -177,7 +177,7 @@ Enterprise organizations achieve modularity by chaining specialized open-source 
 Contributions are warmly welcomed! To suggest a new open-source project or enterprise platform:
 1. 🍴 Fork the repository.
 2. 📝 Update `README.md` following the established table / list format.
-3. 🔎 Verify GitHub stars or current pricing tiers with factual references.
+3. 🔎 Verify GitHub_Stars or current pricing tiers with factual references.
 4. 🚀 Submit a Pull Request with a clear description of the project.
 
 ---
